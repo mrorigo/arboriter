@@ -13,3 +13,4 @@ categories = ["algorithms", "data-structures"]
 exclude = ["BLOG-POST.md"]
 
 [dependencies]
+rand = "0.8.5"
