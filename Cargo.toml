@@ -1,0 +1,15 @@
+[package]
+name = "arboriter"
+version = "0.1.0"
+edition = "2024"
+description = "A tree traversal primitive for Rust, inspired by Tyler Glaiel's blog post"
+authors = ["mrorigo <mrorigo@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/mrorigo/arboriter"
+documentation = "https://docs.rs/arboriter"
+readme = "README.md"
+keywords = ["tree", "traversal", "data-structure", "recursion", "iterator"]
+categories = ["algorithms", "data-structures"]
+exclude = ["BLOG-POST.md"]
+
+[dependencies]
